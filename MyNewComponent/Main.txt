@@ -2,3 +2,4 @@ SVN to Git tests
 Test the following
 - branches
 - tags
+- just a side note: what about unknown users?
