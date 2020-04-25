@@ -1,1 +1,4 @@
 SVN to Git tests
+Test the following
+- branches
+- tags
